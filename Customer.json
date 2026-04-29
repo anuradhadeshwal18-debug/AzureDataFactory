@@ -1,0 +1,46 @@
+[
+  {
+    "order_id": 1001,
+    "customer": {
+      "customer_id": "C001",
+      "name": "Rahul Sharma",
+      "location": "Delhi"
+    },
+    "items": [
+      {
+        "product": "Laptop",
+        "category": "Electronics",
+        "price": 75000,
+        "quantity": 1
+      }
+    ],
+    "payment": {
+      "method": "Credit Card",
+      "status": "Paid"
+    },
+    "order_date": "2024-01-15",
+    "delivery_status": "Delivered"
+  },
+  {
+    "order_id": 1002,
+    "customer": {
+      "customer_id": "C002",
+      "name": "Priya Singh",
+      "location": "Mumbai"
+    },
+    "items": [
+      {
+        "product": "Phone",
+        "category": "Electronics",
+        "price": 25000,
+        "quantity": 2
+      }
+    ],
+    "payment": {
+      "method": "UPI",
+      "status": "Paid"
+    },
+    "order_date": "2024-01-16",
+    "delivery_status": "Delivered"
+  }
+]
