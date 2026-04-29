@@ -1,0 +1,15 @@
+{
+	"name": "azuredatafactoryanuradha",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "176ea9cb-9586-426d-900d-793a49821abd",
+		"tenantId": "79c9810a-4113-4456-a4ae-a1d9bd80840e"
+	}
+}
